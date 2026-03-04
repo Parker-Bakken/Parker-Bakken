@@ -1,16 +1,41 @@
-## Hi there 👋
+# Parker Bakken
 
-<!--
-**Parker-Bakken/Parker-Bakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Rater Portfolio
 
-Here are some ideas to get you started:
+I evaluate AI systems with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Search relevance
+• AI response accuracy
+• Dataset labeling
+• LLM hallucination detection
+• AI safety evaluation
+
+---
+
+## Portfolio Projects
+
+🔹 **AI Rater Portfolio**
+Examples of search quality evaluation and AI response grading.
+
+🔹 **AI Evaluation Examples**
+Case studies of hallucination detection and prompt analysis.
+
+🔹 **Dataset Labeling Examples**
+Annotated datasets used for training AI models.
+
+---
+
+## Skills
+
+Search Quality Evaluation
+AI Response Grading
+Prompt Analysis
+Dataset Annotation
+AI Safety Evaluation
+
+---
+
+## Contact
+
+GitHub: https://github.com/Parker-Bakken
+****
