@@ -1,60 +1,76 @@
 # Parker Bakken
 
-**AI Rater • Search Quality Evaluator • Data Annotation • LLM Evaluation (Grounding / Hallucinations / Rubrics / QA)**
+Automation • APIs • Workflow Systems • AI Tooling
 
-I build **reproducible evaluation artifacts**: rubrics, gold sets, calibration/QA workflows, and scored examples for search + LLM outputs.
+I build **automation systems that connect APIs, AI services, and workflow orchestration tools** to create scalable pipelines.
 
-![Python](https://img.shields.io/badge/Python-3.x-informational)
-![Evaluation](https://img.shields.io/badge/LLM-Evaluation-informational)
-![Search](https://img.shields.io/badge/Search-Quality-informational)
+Currently focused on **automation engineering, API integrations, and workflow platforms like n8n.**
 
 ---
 
-## Start here (best proof)
+## Featured Projects
 
-1) **Search Quality Rater Simulation** — rubric + labeled examples + dataset  
-👉 https://github.com/Parker-Bakken/search-quality-rater-simulation
+### n8n AI Content Pipeline
 
-2) **LLM Hallucination Detection Benchmark** — grounded vs unverifiable claims + evaluation guidelines + tooling  
-👉 https://github.com/Parker-Bakken/llm-hallucination-detection-benchmark
+Automated pipeline that converts structured content ideas into rendered short-form videos using **n8n orchestration and multiple APIs**.
 
-3) **AI Search Quality Evaluator (Python)** — dataset + scoring script + sample output  
-👉 https://github.com/Parker-Bakken/ai-search-quality-evaluator
+Key capabilities:
 
-4) **Dataset Labeling Examples** — annotation datasets + labeling patterns  
-👉 https://github.com/Parker-Bakken/dataset-labeling-examples
+* API orchestration
+* automated voiceover generation
+* caption generation
+* render API integration
+* metadata packaging for publishing
 
----
+Repository:
 
-## What I deliver
-
-- **Rubric design** for consistent scoring (helpfulness, correctness, grounding, intent match)
-- **Calibration + QA** (double-pass reviews, disagreement tracking, adjudication notes)
-- **Gold sets** (edge cases + “correct label” rationales)
-- **Scorecards & metrics** (label distributions, error taxonomy, failure mode summaries)
-- **Clear documentation** (how to run, how to label, how to reproduce results)
+https://github.com/Parker-Bakken/n8n-ai-content-pipeline
 
 ---
 
-## Portfolio map (what each repo proves)
+### n8n Automation Patterns
 
-| Repo | What it proves | Artifacts inside |
-|---|---|---|
-| search-quality-rater-simulation | Practical search rating + rubric thinking | rubric, examples, dataset, templates |
-| llm-hallucination-detection-benchmark | Grounding/faithfulness evaluation | guidelines, prompts, labeled evals, scripts |
-| ai-search-quality-evaluator | Reproducible scoring + simple evaluation tooling | dataset, python script, sample outputs |
-| dataset-labeling-examples | Annotation structure + dataset hygiene | CSVs, documentation patterns |
-| ai-evaluation-examples | Clear rating rationales | case writeups, pass/fail criteria |
+A toolkit of **reusable automation patterns** used to build reliable workflows.
+
+Includes patterns for:
+
+* retries and backoff
+* API normalization
+* webhook intake
+* run logging and observability
+* idempotency and deduplication
+
+Repository:
+
+https://github.com/Parker-Bakken/n8n-automation-patterns
 
 ---
 
-## How I evaluate (short version)
+## Technical Focus
 
-**1) Interpret intent** (what the user actually wants)  
-**2) Verify factuality** (supported vs unverifiable vs wrong)  
-**3) Check completeness + usefulness** (missing steps? unclear? mis-scoped?)  
-**4) Apply rubric consistently** (explicit criteria + edge case notes)  
-**5) QA & calibration** (spot checks, second pass, disagreement tracking)
+Automation Engineering
+API Integration
+Workflow Orchestration
+AI Tooling Pipelines
+
+Technologies:
+
+* n8n
+* REST APIs
+* JSON workflows
+* AI APIs
+* automation pipelines
+
+---
+
+## Current Work
+
+I am actively developing automation systems focused on:
+
+* scalable AI content generation pipelines
+* reusable workflow patterns
+* reliable API orchestration
+* production-style automation systems
 
 ---
 
