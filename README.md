@@ -1,5 +1,9 @@
 # Parker Bakken
 
+![Automation](https://img.shields.io/badge/focus-automation-blue)
+![APIs](https://img.shields.io/badge/focus-api%20integration-green)
+![Workflow](https://img.shields.io/badge/tool-n8n-orange)
+
 Automation • APIs • Workflow Systems • AI Tooling
 
 I build **automation systems that connect APIs, AI services, and workflow orchestration tools** to create scalable pipelines.
